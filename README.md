@@ -1,6 +1,6 @@
 # Projeto Insígnias
 
-![Status](http://img.shields.io/static/v1?label=Status&message=Em%20Progresso&color=YELLOW&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=Status&message=Em%20Progresso&color=F7DF1E&style=for-the-badge)
 
 Projeto feito com o objetivo de conseguir algumas insígnias do github.
 
